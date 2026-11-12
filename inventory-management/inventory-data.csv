@@ -1,0 +1,10 @@
+
+Product,Category,Available_Stock,Monthly_Usage,Unit_Cost,Lead_Time_Days
+Coffee Beans,Raw Material,500,300,450,5
+Milk,Perishable,200,180,60,2
+Sugar,Raw Material,400,100,45,4
+Paper Cups,Packaging,5000,1500,2,7
+Tea Powder,Raw Material,250,50,350,5
+Chocolate Powder,Raw Material,150,90,280,6
+Whipping Cream,Perishable,100,80,180,2
+Coffee Filters,Consumables,2000,400,3,8
